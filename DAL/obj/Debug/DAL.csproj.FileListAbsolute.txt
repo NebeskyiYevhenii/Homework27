@@ -1,0 +1,14 @@
+C:\Users\nebeskyi.yevhenii\OneDrive - ТОВ БАСКЕТ ТРЕЙД\Курсы\Homework\Homework27\ExpendituresALevel\DAL\bin\Debug\DAL.dll.config
+C:\Users\nebeskyi.yevhenii\OneDrive - ТОВ БАСКЕТ ТРЕЙД\Курсы\Homework\Homework27\ExpendituresALevel\DAL\bin\Debug\DAL.dll
+C:\Users\nebeskyi.yevhenii\OneDrive - ТОВ БАСКЕТ ТРЕЙД\Курсы\Homework\Homework27\ExpendituresALevel\DAL\bin\Debug\DAL.pdb
+C:\Users\nebeskyi.yevhenii\OneDrive - ТОВ БАСКЕТ ТРЕЙД\Курсы\Homework\Homework27\ExpendituresALevel\DAL\bin\Debug\EntityFramework.dll
+C:\Users\nebeskyi.yevhenii\OneDrive - ТОВ БАСКЕТ ТРЕЙД\Курсы\Homework\Homework27\ExpendituresALevel\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nebeskyi.yevhenii\OneDrive - ТОВ БАСКЕТ ТРЕЙД\Курсы\Homework\Homework27\ExpendituresALevel\DAL\bin\Debug\EntityFramework.xml
+C:\Users\nebeskyi.yevhenii\OneDrive - ТОВ БАСКЕТ ТРЕЙД\Курсы\Homework\Homework27\ExpendituresALevel\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nebeskyi.yevhenii\OneDrive - ТОВ БАСКЕТ ТРЕЙД\Курсы\Homework\Homework27\ExpendituresALevel\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\nebeskyi.yevhenii\OneDrive - ТОВ БАСКЕТ ТРЕЙД\Курсы\Homework\Homework27\ExpendituresALevel\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\nebeskyi.yevhenii\OneDrive - ТОВ БАСКЕТ ТРЕЙД\Курсы\Homework\Homework27\ExpendituresALevel\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\nebeskyi.yevhenii\OneDrive - ТОВ БАСКЕТ ТРЕЙД\Курсы\Homework\Homework27\ExpendituresALevel\DAL\obj\Debug\DAL.dll
+C:\Users\nebeskyi.yevhenii\OneDrive - ТОВ БАСКЕТ ТРЕЙД\Курсы\Homework\Homework27\ExpendituresALevel\DAL\obj\Debug\DAL.pdb
+C:\Users\nebeskyi.yevhenii\OneDrive - ТОВ БАСКЕТ ТРЕЙД\Курсы\Homework\Homework27\ExpendituresALevel\DAL\obj\Debug\DAL.Migrations.Initial_Create.resources
+C:\Users\nebeskyi.yevhenii\OneDrive - ТОВ БАСКЕТ ТРЕЙД\Курсы\Homework\Homework27\ExpendituresALevel\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
